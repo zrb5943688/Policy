@@ -1,7 +1,7 @@
 # Privacy Policy
 
 ## App Information
-App Name: Small Reading Japanese
+App Name: Easy Read Japanese
 Version: 1.0
 Developer: Zhao Rongbo
 
