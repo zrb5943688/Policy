@@ -28,7 +28,7 @@ Google AdMob may automatically collect and process certain non-personal data thr
 Google uses this data to serve relevant ads, personalize advertising, and monitor application performance.
 
 For more information about how Google uses data, please review Google’s Privacy & Terms:
-https://google.com
+https://policies.google.com/?hl=en-US
 
 ## 5. Permissions Usage
 This app requires the following permission to function properly:
